@@ -23,34 +23,6 @@ I am one of the **key developers of the [OSMOSE ecosystem modelling framework](h
 
 ---
 
-## Featured projects
-
-### 🐟 [OSMOSE](https://github.com/osmose-model)
-
-Scientific development of the OSMOSE ecosystem modelling framework for ecosystem-based fisheries management.
-
-### 📈 [calibrar](https://github.com/roliveros-ramos/calibrar)
-
-R package for calibration and optimisation of computationally expensive ecological and agent-based models, including the **optim2** optimisation framework.
-
-### 🌍 [nctools](https://github.com/roliveros-ramos/nctools)
-
-Utilities for manipulating gridded environmental **netCDF** datasets.
-
-### 🗺️ [kali](https://github.com/roliveros-ramos/kali)
-
-Tools for habitat and niche modelling.
-
-### 📊 [gts](https://github.com/roliveros-ramos/gts)
-
-Utilities for gridded environmental time-series analysis.
-
-### 🐠 [ibm](https://github.com/roliveros-ramos/ibm)
-
-Infrastructure for developing individual-based models in R.
-
----
-
 ## Profiles
 
 - 🌐 **Website:** https://roliveros-ramos.github.io/
