@@ -1,35 +1,66 @@
-### Hi there 👋
+# Ricardo Oliveros-Ramos
 
-<!--
-**roliveros-ramos/roliveros-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quantitative Marine Ecologist • Ecosystem Modeller • Open-Source Scientific Software**
 
-Here are some ideas to get you started:
+I develop mathematical, statistical and computational methods for the **calibration, validation and application of complex ecosystem models** supporting **climate-ready fisheries management**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a researcher at **[IRD – UMR MARBEC](https://umr-marbec.fr/membre/ricardo-oliveros/)**, **Chairperson of the Scientific Committee of [SPRFMO](https://github.com/SPRFMO)**, one of the **key developers of the [OSMOSE ecosystem modelling framework](https://github.com/osmose-model)**, and a contributor to **[FishMIP](https://github.com/Fish-MIP)**.
 
+🌐 **Website:** https://roliveros-ramos.github.io/
 
-### :octocat: GitHub stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roliveros-ramos&theme=dark)](https://git.io/streak-stats)
+---
 
-[![roliveros-ramos's GitHub stats](https://github-readme-stats.vercel.app/api?username=roliveros-ramos&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+## Research themes
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roliveros-ramos&layout=compact&theme=nord&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+- Ecosystem modelling
+- Model calibration and optimisation
+- Model validation and uncertainty
+- Climate-ready fisheries management
+- Open-source scientific software
+- Reproducible modelling workflows
 
-### StackOverflow
+---
+
+## Featured projects
+
+### 🐟 [OSMOSE](https://github.com/osmose-model)
+
+Scientific development of the OSMOSE ecosystem modelling framework for ecosystem-based fisheries management.
+
+### 📈 [calibrar](https://github.com/roliveros-ramos/calibrar)
+
+R package for calibration and optimisation of computationally expensive ecological and agent-based models, including the **optim2** optimisation framework.
+
+### 🌍 [nctools](https://github.com/roliveros-ramos/nctools)
+
+Utilities for manipulating gridded environmental **netCDF** datasets.
+
+### 🗺️ [kali](https://github.com/roliveros-ramos/kali)
+
+Tools for habitat and niche modelling.
+
+### 📊 [gts](https://github.com/roliveros-ramos/gts)
+
+Utilities for gridded environmental time-series analysis.
+
+### 🐠 [ibm](https://github.com/roliveros-ramos/ibm)
+
+Infrastructure for developing individual-based models in R.
+
+---
+
+## Profiles
+
+- 🌐 **Website:** https://roliveros-ramos.github.io/
+- 🎓 **[Google Scholar](https://scholar.google.com/citations?user=6ptCkCUAAAAJ)**
+- 🆔 **[ORCID](https://orcid.org/0000-0002-8069-2101)**
+- 🧪 **[UMR MARBEC](https://umr-marbec.fr/membre/ricardo-oliveros/)**
+- 💼 **[ResearchGate](https://www.researchgate.net/profile/Ricardo-Oliveros-Ramos)**
+
+---
+
+### Stack Overflow
+
 <div>
-<a href="[https://stackoverflow.com/users/1146071/roliveros-ramos](https://stackoverflow.com/users/1146071/ricardo-oliveros-ramos)"><img src="https://stackoverflow.com/users/flair/1146071.png?theme=dark" width="204" height="58" alt="roliveros-ramos's profile at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for roliveros-ramos at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</div>
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<a href="https://stackoverflow.com/users/1146071/ricardo-oliveros-ramos"><img src="https://stackoverflow.com/users/flair/1146071.png?theme=dark" width="204" height="58" alt="Ricardo Oliveros-Ramos's profile at Stack Overflow" title="Profile at Stack Overflow"></a>
 </div>
