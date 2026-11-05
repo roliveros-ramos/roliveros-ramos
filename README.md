@@ -1,6 +1,6 @@
 # Ricardo Oliveros-Ramos
 
-**Quantitative Marine Ecologist • Ecosystem Modeller • Open-Source Scientific Software**
+**Quantitative Marine Ecologist • Ecosystem Modeller • Open-Source Scientific Software • Data Science**
 
 I develop mathematical, statistical and computational methods for the **calibration, validation and application of complex ecosystem models** supporting **climate-ready fisheries management**.
 
